@@ -8,11 +8,33 @@ Which industries sponsored top League of Legends organizations from 2019 to 2026
 
 ## Data
 
-*To come.* This section will describe the archived pages collected, the organizations and years covered, and the dataset's fields. Raw and processed files will go in [`data/`](data/).
+**Source.** Archived copies of each organization's partner or sponsor page in the [Internet Archive's Wayback Machine](https://web.archive.org/). I found the pages and their captures with the [Wayback CDX API](https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server) and downloaded each selected capture in its original archived form (`/web/<timestamp>id_/<url>`). The team websites themselves were never contacted.
+
+**Collection.** I ran [`collect_and_clean.ipynb`](collect_and_clean.ipynb) on **November 8, 2026**, making **266** requests (154 CDX searches and 112 page downloads). Every request sent a User-Agent naming the project with a contact address, waited at least 5 seconds after the previous one, backed off on errors, and was cached so nothing was downloaded twice.
+
+**Records.**
+
+| | Count |
+| --- | --- |
+| Organizations with at least one capture | 9 of 10 (none found for Dplus KIA) |
+| Captures selected (2 per organization per year, 2019–2026) | 112 of 160 (48 missing) |
+| Captures from the target months (Jan–Feb, Nov–Dec) | 81 |
+| Raw sponsor mentions parsed | 2,053 |
+| Clean rows (organization × year × period × sponsor) | 1,007 |
+| Distinct sponsors | 240 |
+
+**Cleaning.** Sponsor names come from logo link domains (`redbull.com` → `redbull`) or logo alt text. Spellings are merged with [`data/brand_aliases.csv`](data/brand_aliases.csv), duplicates on a page are counted once, and each sponsor is hand-coded into an industry in [`data/industry_codes.csv`](data/industry_codes.csv). Links that aren't sponsors (ticket sites, news articles) are coded `not_a_sponsor` and removed. Every field is described in [`data/data_dictionary.md`](data/data_dictionary.md).
+
+**In this repository:** a 60-row sample of the clean dataset ([`data/sample/sponsors_sample.csv`](data/sample/sponsors_sample.csv)), the list of every capture used ([`data/sample/captures.csv`](data/sample/captures.csv)), and the hand-coding files.
+
+**Left out, and why:**
+- **Archived HTML pages (`data/raw/html/`).** The pages are the teams' copyrighted website content, served by the Internet Archive for viewing and research, not for redistribution. They are also large. Anyone can view each page through the `snapshot_url` in the data.
+- **Raw CDX responses and parsed mentions (`data/raw/cdx/`, `data/interim/`).** These are intermediate files that the notebook rebuilds. Some pages include player names and photos in banners, and only brand names are kept.
+- **The full clean dataset (`data/clean/`).** The assignment asks for a sample. The notebook rebuilds the full file in seconds from its cache, or in about 20–30 minutes from scratch.
 
 ## Methods
 
-*To come.* This section will cover the Wayback CDX API lookups, how logos are scraped from each snapshot, and the industry coding scheme.
+*To come.*
 
 ## Findings
 
@@ -20,19 +42,21 @@ Which industries sponsored top League of Legends organizations from 2019 to 2026
 
 ## How to reproduce
 
-*To come.* For now, to rerun the test request:
-
 ```bash
-pip install requests
-python3 code/retrieve_one_record.py
+pip install -r requirements.txt
+jupyter notebook collect_and_clean.ipynb   # run all cells from the repository folder
 ```
+
+A first run takes about 20–30 minutes because of the 5-second pause between requests. To rerun the original test request: `python3 code/retrieve_one_record.py`.
 
 ## Repository contents
 
 | Path | What it is |
 | --- | --- |
 | `proposal.md` | Project proposal |
-| `analysis.ipynb` | Collection and analysis notebook (placeholder) |
+| `collect_and_clean.ipynb` | Collection and cleaning notebook |
+| `analysis.ipynb` | Analysis notebook (placeholder) |
 | `report.md` | Final write-up (placeholder) |
-| `code/` | Scripts, starting with the test CDX request |
-| `data/` | Collected and processed data (placeholder) |
+| `code/` | Test CDX request from the proposal |
+| `data/` | Data sample, hand-coding files and data dictionary |
+| `requirements.txt` | Python packages needed |
