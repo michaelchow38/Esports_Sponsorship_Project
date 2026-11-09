@@ -1,0 +1,161 @@
+org,region,year,period,status,capture_date,timestamp,page_url,in_target_window,days_from_target,download,n_mentions,n_sponsors,snapshot_url
+Team Liquid,North America,2019,early,selected,2019-03-25,20190325124759,https://www.teamliquid.com/partners,False,83.0,cached,14.0,7,https://web.archive.org/web/20190325124759/https://www.teamliquid.com/partners
+Team Liquid,North America,2019,late,selected,2019-12-06,20191206074755,https://www.teamliquid.com/partners,True,25.0,cached,16.0,8,https://web.archive.org/web/20191206074755/https://www.teamliquid.com/partners
+Team Liquid,North America,2020,early,selected,2020-04-25,20200425034636,https://www.teamliquid.com/partners,False,115.0,cached,17.0,7,https://web.archive.org/web/20200425034636/https://www.teamliquid.com/partners
+Team Liquid,North America,2020,late,selected,2020-11-12,20201112012440,https://www.teamliquid.com/partners,True,49.0,cached,17.0,7,https://web.archive.org/web/20201112012440/https://www.teamliquid.com/partners
+Team Liquid,North America,2021,early,selected,2021-01-04,20210104052541,https://www.teamliquid.com/partners,True,3.0,cached,17.0,7,https://web.archive.org/web/20210104052541/https://www.teamliquid.com/partners
+Team Liquid,North America,2021,late,selected,2021-12-07,20211207175231,https://www.teamliquid.com/partners,True,24.0,cached,30.0,13,https://web.archive.org/web/20211207175231/https://www.teamliquid.com/partners
+Team Liquid,North America,2022,early,selected,2022-01-19,20220119073513,https://www.teamliquid.com/partners,True,18.0,cached,30.0,13,https://web.archive.org/web/20220119073513/https://www.teamliquid.com/partners
+Team Liquid,North America,2022,late,selected,2022-12-30,20221230120104,https://www.teamliquid.com/partners,True,1.0,cached,32.0,14,https://web.archive.org/web/20221230120104/https://www.teamliquid.com/partners
+Team Liquid,North America,2023,early,selected,2023-01-27,20230127054523,https://www.teamliquid.com/partners,True,26.0,cached,30.0,13,https://web.archive.org/web/20230127054523/https://www.teamliquid.com/partners
+Team Liquid,North America,2023,late,selected,2023-11-24,20231124185736,https://www.teamliquid.com/partners,True,37.0,cached,31.0,13,https://web.archive.org/web/20231124185736/https://www.teamliquid.com/partners
+Team Liquid,North America,2024,early,selected,2024-03-04,20240304043845,https://teamliquid.com/partners,False,63.0,cached,0.0,0,https://web.archive.org/web/20240304043845/https://teamliquid.com/partners
+Team Liquid,North America,2024,late,selected,2024-12-29,20241229180038,https://teamliquid.com/partners,True,2.0,cached,18.0,11,https://web.archive.org/web/20241229180038/https://teamliquid.com/partners
+Team Liquid,North America,2025,early,selected,2025-02-26,20250226164248,https://teamliquid.com/partners,True,56.0,cached,18.0,11,https://web.archive.org/web/20250226164248/https://teamliquid.com/partners
+Team Liquid,North America,2025,late,selected,2025-12-23,20251223084910,https://teamliquid.com/partners,True,8.0,cached,24.0,14,https://web.archive.org/web/20251223084910/https://teamliquid.com/partners
+Team Liquid,North America,2026,early,selected,2026-02-06,20260206230639,https://teamliquid.com/partners,True,36.0,cached,25.0,15,https://web.archive.org/web/20260206230639/https://teamliquid.com/partners
+Team Liquid,North America,2026,late,selected,2026-09-27,20260927061447,https://teamliquid.com/partners,False,95.0,cached,24.0,15,https://web.archive.org/web/20260927061447/https://teamliquid.com/partners
+Cloud9,North America,2019,early,selected,2019-01-29,20190129010426,https://www.cloud9.gg/pages/partners,True,28.0,cached,5.0,4,https://web.archive.org/web/20190129010426/https://www.cloud9.gg/pages/partners
+Cloud9,North America,2019,late,selected,2019-12-17,20191217193319,https://www.cloud9.gg/pages/partners,True,14.0,cached,14.0,8,https://web.archive.org/web/20191217193319/https://www.cloud9.gg/pages/partners
+Cloud9,North America,2020,early,selected,2020-05-12,20200512035029,https://cloud9.gg/partners/,False,132.0,cached,24.0,13,https://web.archive.org/web/20200512035029/https://cloud9.gg/partners/
+Cloud9,North America,2020,late,selected,2020-11-30,20201130204801,https://cloud9.gg/partners/,True,31.0,cached,30.0,19,https://web.archive.org/web/20201130204801/https://cloud9.gg/partners/
+Cloud9,North America,2021,early,selected,2021-01-22,20210122102619,https://www.cloud9.gg/partners/,True,21.0,cached,31.0,20,https://web.archive.org/web/20210122102619/https://www.cloud9.gg/partners/
+Cloud9,North America,2021,late,selected,2021-11-08,20211108020327,https://cloud9.gg/partners/,True,53.0,cached,36.0,22,https://web.archive.org/web/20211108020327/https://cloud9.gg/partners/
+Cloud9,North America,2022,early,selected,2022-01-28,20220128032719,https://cloud9.gg/partners/,True,27.0,cached,36.0,22,https://web.archive.org/web/20220128032719/https://cloud9.gg/partners/
+Cloud9,North America,2022,late,selected,2022-11-28,20221128191836,https://cloud9.gg/partners/,True,33.0,cached,40.0,21,https://web.archive.org/web/20221128191836/https://cloud9.gg/partners/
+Cloud9,North America,2023,early,selected,2023-02-04,20230204130650,https://cloud9.gg/partners/,True,34.0,cached,21.0,10,https://web.archive.org/web/20230204130650/https://cloud9.gg/partners/
+Cloud9,North America,2023,late,selected,2023-12-08,20231208083639,https://cloud9.gg/partners/,True,23.0,cached,15.0,2,https://web.archive.org/web/20231208083639/https://cloud9.gg/partners/
+Cloud9,North America,2024,early,selected,2024-02-04,20240204212203,https://cloud9.gg/partners/,True,34.0,cached,11.0,2,https://web.archive.org/web/20240204212203/https://cloud9.gg/partners/
+Cloud9,North America,2024,late,selected,2024-12-09,20241209110622,https://cloud9.gg/partners/,True,22.0,cached,13.0,4,https://web.archive.org/web/20241209110622/https://cloud9.gg/partners/
+Cloud9,North America,2025,early,selected,2025-01-14,20250114224212,https://cloud9.gg/partners/,True,13.0,cached,12.0,4,https://web.archive.org/web/20250114224212/https://cloud9.gg/partners/
+Cloud9,North America,2025,late,selected,2025-11-19,20251119120847,https://cloud9.gg/partners/,True,42.0,cached,17.0,4,https://web.archive.org/web/20251119120847/https://cloud9.gg/partners/
+Cloud9,North America,2026,early,selected,2026-01-15,20260115020057,https://cloud9.gg/partners/,True,14.0,cached,20.0,4,https://web.archive.org/web/20260115020057/https://cloud9.gg/partners/
+Cloud9,North America,2026,late,selected,2026-09-26,20260926165315,https://cloud9.gg/partners/,False,96.0,cached,27.0,5,https://web.archive.org/web/20260926165315/https://cloud9.gg/partners/
+FlyQuest,North America,2019,early,missing,,,,,,nan,,0,
+FlyQuest,North America,2019,late,selected,2019-11-02,20191102091345,https://flyquest.gg/partners/,True,59.0,cached,1.0,1,https://web.archive.org/web/20191102091345/https://flyquest.gg/partners/
+FlyQuest,North America,2020,early,selected,2020-03-30,20200330191353,https://flyquest.gg/partners/,False,89.0,cached,1.0,1,https://web.archive.org/web/20200330191353/https://flyquest.gg/partners/
+FlyQuest,North America,2020,late,missing,,,,,,nan,,0,
+FlyQuest,North America,2021,early,missing,,,,,,nan,,0,
+FlyQuest,North America,2021,late,missing,,,,,,nan,,0,
+FlyQuest,North America,2022,early,selected,2022-01-16,20220116095259,https://flyquest.gg/partners,True,15.0,cached,4.0,1,https://web.archive.org/web/20220116095259/https://flyquest.gg/partners
+FlyQuest,North America,2022,late,selected,2022-12-02,20221202054519,https://flyquest.gg/partners,True,29.0,cached,3.0,1,https://web.archive.org/web/20221202054519/https://flyquest.gg/partners
+FlyQuest,North America,2023,early,selected,2023-02-04,20230204051838,https://flyquest.gg/partners,True,34.0,cached,3.0,1,https://web.archive.org/web/20230204051838/https://flyquest.gg/partners
+FlyQuest,North America,2023,late,selected,2023-12-03,20231203034719,https://flyquest.gg/pages/partners,True,28.0,cached,1.0,1,https://web.archive.org/web/20231203034719/https://flyquest.gg/pages/partners
+FlyQuest,North America,2024,early,selected,2024-02-28,20240228152715,https://flyquest.gg/pages/partners,True,58.0,cached,0.0,0,https://web.archive.org/web/20240228152715/https://flyquest.gg/pages/partners
+FlyQuest,North America,2024,late,selected,2024-10-03,20241003163435,https://flyquest.gg/pages/partners,False,89.0,cached,0.0,0,https://web.archive.org/web/20241003163435/https://flyquest.gg/pages/partners
+FlyQuest,North America,2025,early,selected,2025-01-24,20250124060937,https://flyquest.gg/pages/partners,True,23.0,cached,0.0,0,https://web.archive.org/web/20250124060937/https://flyquest.gg/pages/partners
+FlyQuest,North America,2025,late,selected,2025-12-11,20251211025617,https://flyquest.gg/pages/partners,True,20.0,cached,5.0,4,https://web.archive.org/web/20251211025617/https://flyquest.gg/pages/partners
+FlyQuest,North America,2026,early,selected,2026-01-13,20260113042626,https://flyquest.gg/pages/partners,True,12.0,cached,5.0,4,https://web.archive.org/web/20260113042626/https://flyquest.gg/pages/partners
+FlyQuest,North America,2026,late,selected,2026-08-22,20260822131727,https://flyquest.gg/pages/partners,False,131.0,cached,3.0,2,https://web.archive.org/web/20260822131727/https://flyquest.gg/pages/partners
+G2 Esports,Europe,2019,early,selected,2019-01-09,20190109225850,https://www.g2esports.com/partners/,True,8.0,cached,12.0,7,https://web.archive.org/web/20190109225850/https://www.g2esports.com/partners/
+G2 Esports,Europe,2019,late,selected,2019-12-19,20191219030751,https://www.g2esports.com/partners/,True,12.0,cached,15.0,8,https://web.archive.org/web/20191219030751/https://www.g2esports.com/partners/
+G2 Esports,Europe,2020,early,selected,2020-04-07,20200407060247,https://g2esports.com/partners,False,97.0,cached,22.0,14,https://web.archive.org/web/20200407060247/https://g2esports.com/partners
+G2 Esports,Europe,2020,late,selected,2020-11-16,20201116104300,https://g2esports.com/about/partners/,True,45.0,cached,42.0,19,https://web.archive.org/web/20201116104300/https://g2esports.com/about/partners/
+G2 Esports,Europe,2021,early,missing,,,,,,nan,,0,
+G2 Esports,Europe,2021,late,selected,2021-10-27,20211027104351,https://g2esports.com/pages/partners,False,65.0,cached,40.0,18,https://web.archive.org/web/20211027104351/https://g2esports.com/pages/partners
+G2 Esports,Europe,2022,early,selected,2022-01-11,20220111095237,https://g2esports.com/pages/partners,True,10.0,cached,40.0,18,https://web.archive.org/web/20220111095237/https://g2esports.com/pages/partners
+G2 Esports,Europe,2022,late,selected,2022-10-08,20221008233957,https://g2esports.com/pages/partners,False,84.0,cached,37.0,17,https://web.archive.org/web/20221008233957/https://g2esports.com/pages/partners
+G2 Esports,Europe,2023,early,selected,2023-01-28,20230128105351,https://g2esports.com/pages/partners,True,27.0,cached,30.0,14,https://web.archive.org/web/20230128105351/https://g2esports.com/pages/partners
+G2 Esports,Europe,2023,late,selected,2023-12-03,20231203112945,https://g2esports.com/pages/partners,True,28.0,cached,35.0,18,https://web.archive.org/web/20231203112945/https://g2esports.com/pages/partners
+G2 Esports,Europe,2024,early,selected,2024-03-19,20240319020919,https://g2esports.com/pages/partners,False,78.0,cached,46.0,15,https://web.archive.org/web/20240319020919/https://g2esports.com/pages/partners
+G2 Esports,Europe,2024,late,selected,2024-12-27,20241227051621,https://g2esports.com/pages/partners,True,4.0,cached,46.0,15,https://web.archive.org/web/20241227051621/https://g2esports.com/pages/partners
+G2 Esports,Europe,2025,early,selected,2025-02-11,20250211192528,https://g2esports.com/pages/partners,True,41.0,cached,37.0,11,https://web.archive.org/web/20250211192528/https://g2esports.com/pages/partners
+G2 Esports,Europe,2025,late,selected,2025-12-29,20251229212834,https://g2esports.com/pages/partners,True,2.0,cached,31.0,10,https://web.archive.org/web/20251229212834/https://g2esports.com/pages/partners
+G2 Esports,Europe,2026,early,selected,2026-03-18,20260318102431,https://g2esports.com/pages/partners,False,76.0,cached,28.0,10,https://web.archive.org/web/20260318102431/https://g2esports.com/pages/partners
+G2 Esports,Europe,2026,late,selected,2026-08-20,20260820091959,https://g2esports.com/pages/partners,False,133.0,cached,37.0,13,https://web.archive.org/web/20260820091959/https://g2esports.com/pages/partners
+Fnatic,Europe,2019,early,selected,2019-01-01,20190101193506,https://fnatic.com/partners,True,0.0,cached,32.0,16,https://web.archive.org/web/20190101193506/https://fnatic.com/partners
+Fnatic,Europe,2019,late,selected,2019-12-21,20191221204013,https://www.fnatic.com/partners,True,10.0,cached,22.0,11,https://web.archive.org/web/20191221204013/https://www.fnatic.com/partners
+Fnatic,Europe,2020,early,missing,,,,,,nan,,0,
+Fnatic,Europe,2020,late,missing,,,,,,nan,,0,
+Fnatic,Europe,2021,early,selected,2021-05-24,20210524041355,https://fnatic.com/partners,False,143.0,cached,0.0,0,https://web.archive.org/web/20210524041355/https://fnatic.com/partners
+Fnatic,Europe,2021,late,selected,2021-10-28,20211028171015,https://fnatic.com/partners,False,64.0,cached,10.0,4,https://web.archive.org/web/20211028171015/https://fnatic.com/partners
+Fnatic,Europe,2022,early,selected,2022-01-24,20220124131658,https://fnatic.com/partners,True,23.0,cached,17.0,5,https://web.archive.org/web/20220124131658/https://fnatic.com/partners
+Fnatic,Europe,2022,late,selected,2022-10-01,20221001202401,https://fnatic.com/partners,False,91.0,cached,21.0,6,https://web.archive.org/web/20221001202401/https://fnatic.com/partners
+Fnatic,Europe,2023,early,selected,2023-02-07,20230207142209,https://fnatic.com/partners,True,37.0,cached,13.0,4,https://web.archive.org/web/20230207142209/https://fnatic.com/partners
+Fnatic,Europe,2023,late,selected,2023-11-03,20231103154129,https://fnatic.com/partners,True,58.0,cached,9.0,3,https://web.archive.org/web/20231103154129/https://fnatic.com/partners
+Fnatic,Europe,2024,early,selected,2024-02-28,20240228120440,https://fnatic.com/partners,True,58.0,cached,9.0,3,https://web.archive.org/web/20240228120440/https://fnatic.com/partners
+Fnatic,Europe,2024,late,selected,2024-11-07,20241107024343,https://fnatic.com/partners,True,54.0,cached,25.0,6,https://web.archive.org/web/20241107024343/https://fnatic.com/partners
+Fnatic,Europe,2025,early,selected,2025-01-26,20250126111139,https://fnatic.com/partners,True,25.0,cached,25.0,6,https://web.archive.org/web/20250126111139/https://fnatic.com/partners
+Fnatic,Europe,2025,late,selected,2025-12-27,20251227094643,https://fnatic.com/partners,True,4.0,cached,1.0,1,https://web.archive.org/web/20251227094643/https://fnatic.com/partners
+Fnatic,Europe,2026,early,selected,2026-01-16,20260116150616,https://fnatic.com/partners,True,15.0,cached,1.0,1,https://web.archive.org/web/20260116150616/https://fnatic.com/partners
+Fnatic,Europe,2026,late,selected,2026-09-14,20260914004534,https://fnatic.com/partners,False,108.0,cached,1.0,1,https://web.archive.org/web/20260914004534/https://fnatic.com/partners
+Team Vitality,Europe,2019,early,missing,,,,,,nan,,0,
+Team Vitality,Europe,2019,late,selected,2019-12-12,20191212154834,https://vitality.gg/en/sponsors/,True,19.0,cached,2.0,0,https://web.archive.org/web/20191212154834/https://vitality.gg/en/sponsors/
+Team Vitality,Europe,2020,early,missing,,,,,,nan,,0,
+Team Vitality,Europe,2020,late,selected,2020-09-29,20200929225210,https://vitality.gg/en/sponsors/,False,93.0,cached,2.0,0,https://web.archive.org/web/20200929225210/https://vitality.gg/en/sponsors/
+Team Vitality,Europe,2021,early,selected,2021-01-25,20210125063906,https://vitality.gg/en/sponsors/,True,24.0,cached,2.0,0,https://web.archive.org/web/20210125063906/https://vitality.gg/en/sponsors/
+Team Vitality,Europe,2021,late,selected,2021-10-18,20211018003829,https://vitality.gg/en/sponsors/,False,74.0,cached,2.0,0,https://web.archive.org/web/20211018003829/https://vitality.gg/en/sponsors/
+Team Vitality,Europe,2022,early,selected,2022-01-08,20220108230437,https://vitality.gg/partners/,True,7.0,cached,2.0,1,https://web.archive.org/web/20220108230437/https://vitality.gg/partners/
+Team Vitality,Europe,2022,late,selected,2022-12-06,20221206005758,https://vitality.gg/en/partners/,True,25.0,cached,3.0,2,https://web.archive.org/web/20221206005758/https://vitality.gg/en/partners/
+Team Vitality,Europe,2023,early,selected,2023-01-30,20230130004633,https://vitality.gg/partners/,True,29.0,cached,3.0,2,https://web.archive.org/web/20230130004633/https://vitality.gg/partners/
+Team Vitality,Europe,2023,late,selected,2023-12-20,20231220212437,https://vitality.gg/partners/,True,11.0,cached,3.0,2,https://web.archive.org/web/20231220212437/https://vitality.gg/partners/
+Team Vitality,Europe,2024,early,selected,2024-01-13,20240113034914,https://vitality.gg/en/partners/,True,12.0,cached,3.0,2,https://web.archive.org/web/20240113034914/https://vitality.gg/en/partners/
+Team Vitality,Europe,2024,late,selected,2024-12-13,20241213130656,https://vitality.gg/partners/,True,18.0,cached,2.0,1,https://web.archive.org/web/20241213130656/https://vitality.gg/partners/
+Team Vitality,Europe,2025,early,selected,2025-02-13,20250213031246,https://vitality.gg/en/partners/,True,43.0,cached,2.0,1,https://web.archive.org/web/20250213031246/https://vitality.gg/en/partners/
+Team Vitality,Europe,2025,late,selected,2025-09-15,20250915101356,https://vitality.gg/en/pages/partners,False,107.0,cached,14.0,11,https://web.archive.org/web/20250915101356/https://vitality.gg/en/pages/partners
+Team Vitality,Europe,2026,early,selected,2026-02-06,20260206154927,https://vitality.gg/en/pages/partners,True,36.0,cached,14.0,11,https://web.archive.org/web/20260206154927/https://vitality.gg/en/pages/partners
+Team Vitality,Europe,2026,late,selected,2026-10-20,20261020021408,https://vitality.gg/en/pages/partners,False,72.0,cached,16.0,14,https://web.archive.org/web/20261020021408/https://vitality.gg/en/pages/partners
+SK Gaming,Europe,2019,early,missing,,,,,,nan,,0,
+SK Gaming,Europe,2019,late,missing,,,,,,nan,,0,
+SK Gaming,Europe,2020,early,missing,,,,,,nan,,0,
+SK Gaming,Europe,2020,late,missing,,,,,,nan,,0,
+SK Gaming,Europe,2021,early,missing,,,,,,nan,,0,
+SK Gaming,Europe,2021,late,missing,,,,,,nan,,0,
+SK Gaming,Europe,2022,early,missing,,,,,,nan,,0,
+SK Gaming,Europe,2022,late,selected,2022-12-08,20221208195051,https://www.sk-gaming.com/partners,True,23.0,cached,23.0,10,https://web.archive.org/web/20221208195051/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2023,early,selected,2023-02-07,20230207050324,https://www.sk-gaming.com/partners,True,37.0,cached,23.0,12,https://web.archive.org/web/20230207050324/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2023,late,selected,2023-09-27,20230927082815,https://www.sk-gaming.com/partners,False,95.0,cached,25.0,12,https://web.archive.org/web/20230927082815/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2024,early,selected,2024-01-14,20240114234640,https://www.sk-gaming.com/partners,True,13.0,cached,23.0,11,https://web.archive.org/web/20240114234640/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2024,late,selected,2024-12-09,20241209195342,https://www.sk-gaming.com/partners,True,22.0,cached,29.0,13,https://web.archive.org/web/20241209195342/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2025,early,selected,2025-01-14,20250114192249,https://www.sk-gaming.com/partners,True,13.0,cached,28.0,13,https://web.archive.org/web/20250114192249/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2025,late,selected,2025-12-06,20251206153539,https://www.sk-gaming.com/partners,True,25.0,cached,28.0,15,https://web.archive.org/web/20251206153539/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2026,early,selected,2026-01-07,20260107234134,https://www.sk-gaming.com/partners,True,6.0,cached,28.0,14,https://web.archive.org/web/20260107234134/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2026,late,selected,2026-09-19,20260919030843,https://www.sk-gaming.com/partners,False,103.0,cached,26.0,12,https://web.archive.org/web/20260919030843/https://www.sk-gaming.com/partners
+T1,Korea,2019,early,missing,,,,,,nan,,0,
+T1,Korea,2019,late,missing,,,,,,nan,,0,
+T1,Korea,2020,early,missing,,,,,,nan,,0,
+T1,Korea,2020,late,selected,2020-08-31,20200831074810,https://t1.gg/partners,False,122.0,cached,0.0,0,https://web.archive.org/web/20200831074810/https://t1.gg/partners
+T1,Korea,2021,early,selected,2021-03-13,20210313055629,https://t1.gg/partners,False,71.0,cached,0.0,0,https://web.archive.org/web/20210313055629/https://t1.gg/partners
+T1,Korea,2021,late,selected,2021-08-26,20210826063518,https://t1.gg/partners,False,127.0,cached,0.0,0,https://web.archive.org/web/20210826063518/https://t1.gg/partners
+T1,Korea,2022,early,missing,,,,,,nan,,0,
+T1,Korea,2022,late,selected,2022-11-29,20221129164628,https://www.t1.gg/partners,True,32.0,cached,43.0,18,https://web.archive.org/web/20221129164628/https://www.t1.gg/partners
+T1,Korea,2023,early,selected,2023-02-08,20230208044251,https://www.t1.gg/partners,True,38.0,cached,21.0,8,https://web.archive.org/web/20230208044251/https://www.t1.gg/partners
+T1,Korea,2023,late,selected,2023-12-15,20231215211914,https://www.t1.gg/partners,True,16.0,cached,21.0,8,https://web.archive.org/web/20231215211914/https://www.t1.gg/partners
+T1,Korea,2024,early,selected,2024-03-19,20240319022845,https://www.t1.gg/partners,False,78.0,cached,20.0,7,https://web.archive.org/web/20240319022845/https://www.t1.gg/partners
+T1,Korea,2024,late,selected,2024-11-27,20241127001125,https://www.t1.gg/partners,True,34.0,cached,22.0,8,https://web.archive.org/web/20241127001125/https://www.t1.gg/partners
+T1,Korea,2025,early,selected,2025-01-05,20250105005003,https://www.t1.gg/partners,True,4.0,cached,22.0,8,https://web.archive.org/web/20250105005003/https://www.t1.gg/partners
+T1,Korea,2025,late,selected,2025-11-21,20251121212310,https://www.t1.gg/partners,True,40.0,cached,23.0,8,https://web.archive.org/web/20251121212310/https://www.t1.gg/partners
+T1,Korea,2026,early,missing,,,,,,nan,,0,
+T1,Korea,2026,late,missing,,,,,,nan,,0,
+Gen.G,Korea,2019,early,missing,,,,,,nan,,0,
+Gen.G,Korea,2019,late,missing,,,,,,nan,,0,
+Gen.G,Korea,2020,early,missing,,,,,,nan,,0,
+Gen.G,Korea,2020,late,missing,,,,,,nan,,0,
+Gen.G,Korea,2021,early,missing,,,,,,nan,,0,
+Gen.G,Korea,2021,late,selected,2021-11-18,20211118071030,https://geng.gg/pages/partners,True,43.0,cached,29.0,27,https://web.archive.org/web/20211118071030/https://geng.gg/pages/partners
+Gen.G,Korea,2022,early,selected,2022-01-26,20220126143900,https://en.geng.gg/pages/partners,True,25.0,cached,30.0,28,https://web.archive.org/web/20220126143900/https://en.geng.gg/pages/partners
+Gen.G,Korea,2022,late,selected,2022-10-16,20221016231634,https://geng.gg/pages/partners,False,76.0,cached,30.0,28,https://web.archive.org/web/20221016231634/https://geng.gg/pages/partners
+Gen.G,Korea,2023,early,selected,2023-01-30,20230130210629,https://geng.gg/pages/partners,True,29.0,cached,28.0,26,https://web.archive.org/web/20230130210629/https://geng.gg/pages/partners
+Gen.G,Korea,2023,late,selected,2023-12-10,20231210202958,https://geng.gg/pages/partners,True,21.0,cached,28.0,26,https://web.archive.org/web/20231210202958/https://geng.gg/pages/partners
+Gen.G,Korea,2024,early,selected,2024-03-03,20240303192415,https://en.geng.gg/pages/partners,False,62.0,cached,28.0,26,https://web.archive.org/web/20240303192415/https://en.geng.gg/pages/partners
+Gen.G,Korea,2024,late,missing,,,,,,nan,,0,
+Gen.G,Korea,2025,early,missing,,,,,,nan,,0,
+Gen.G,Korea,2025,late,missing,,,,,,nan,,0,
+Gen.G,Korea,2026,early,missing,,,,,,nan,,0,
+Gen.G,Korea,2026,late,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2019,early,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2019,late,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2020,early,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2020,late,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2021,early,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2021,late,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2022,early,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2022,late,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2023,early,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2023,late,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2024,early,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2024,late,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2025,early,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2025,late,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2026,early,missing,,,,,,nan,,0,
+Dplus KIA,Korea,2026,late,missing,,,,,,nan,,0,
