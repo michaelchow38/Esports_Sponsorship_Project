@@ -1,61 +1,61 @@
 org,region,year,period,capture_date,sponsor_key,sponsor_name,sponsor_domain,industry,mention_types,n_mentions,snapshot_url
-Cloud9,North America,2020,early,2020-05-12,secretlab,Secretlab,,uncoded,image,2,https://web.archive.org/web/20200512035029/https://cloud9.gg/partners/
-Cloud9,North America,2020,late,2020-11-30,epos,Epos,,uncoded,image,1,https://web.archive.org/web/20201130204801/https://cloud9.gg/partners/
-Cloud9,North America,2021,early,2021-01-22,redbull,Red Bull,redbull.com,uncoded,link,1,https://web.archive.org/web/20210122102619/https://www.cloud9.gg/partners/
-Cloud9,North America,2021,early,2021-01-22,kingston,Kingston,kingston.com,uncoded,link,1,https://web.archive.org/web/20210122102619/https://www.cloud9.gg/partners/
-Cloud9,North America,2021,late,2021-11-08,fury,Fury,,uncoded,image,1,https://web.archive.org/web/20211108020327/https://cloud9.gg/partners/
-Cloud9,North America,2021,late,2021-11-08,kpbluestacked450x240px,Kpbluestacked450X240Px,,uncoded,image,1,https://web.archive.org/web/20211108020327/https://cloud9.gg/partners/
-Cloud9,North America,2022,early,2022-01-28,poweredbymicrosoft,Powered by Microsoft,,uncoded,image,1,https://web.archive.org/web/20220128032719/https://cloud9.gg/partners/
-Cloud9,North America,2022,early,2022-01-28,c9,Kia,c9.gg,uncoded,link,1,https://web.archive.org/web/20220128032719/https://cloud9.gg/partners/
-Cloud9,North America,2026,early,2026-01-15,onwear,onwear.net,onwear.net,uncoded,link,1,https://web.archive.org/web/20260115020057/https://cloud9.gg/partners/
-Fnatic,Europe,2021,late,2021-10-28,flickr,flickr.com,flickr.com,uncoded,link,1,https://web.archive.org/web/20211028171015/https://fnatic.com/partners
-Fnatic,Europe,2022,early,2022-01-24,fna,fna.tc,fna.tc,uncoded,link,4,https://web.archive.org/web/20220124131658/https://fnatic.com/partners
-Fnatic,Europe,2024,late,2024-11-07,goglobal,goglobal.com,goglobal.com,uncoded,link,4,https://web.archive.org/web/20241107024343/https://fnatic.com/partners
-Fnatic,Europe,2025,late,2025-12-27,github,github.com,github.com,uncoded,link,1,https://web.archive.org/web/20251227094643/https://fnatic.com/partners
-G2 Esports,Europe,2019,early,2019-01-09,aoc,AOC,aoc.com,uncoded,link,2,https://web.archive.org/web/20190109225850/https://www.g2esports.com/partners/
-G2 Esports,Europe,2019,late,2019-12-19,mastercard,mastercard,mastercard.com,uncoded,link,2,https://web.archive.org/web/20191219030751/https://www.g2esports.com/partners/
-G2 Esports,Europe,2020,late,2020-11-16,dominospizzagermany,Domino’s Pizza Germany,,uncoded,image,2,https://web.archive.org/web/20201116104300/https://g2esports.com/about/partners/
-G2 Esports,Europe,2020,late,2020-11-16,secretlab,Secretlab,,uncoded,image,2,https://web.archive.org/web/20201116104300/https://g2esports.com/about/partners/
-G2 Esports,Europe,2020,late,2020-11-16,paysafecard,paysafecard,paysafecard.com,uncoded,"image,link",3,https://web.archive.org/web/20201116104300/https://g2esports.com/about/partners/
-G2 Esports,Europe,2021,late,2021-10-27,g2truckbf73f90a89ee4d2c9c9ae8a1e5896f62100x,G2Truckbf73F90A89Ee4D2C9C9Ae8A1E5896F62100X,,uncoded,image,2,https://web.archive.org/web/20211027104351/https://g2esports.com/pages/partners
-G2 Esports,Europe,2022,early,2022-01-11,bmwgroup,bmwgroup.com,bmwgroup.com,uncoded,link,2,https://web.archive.org/web/20220111095237/https://g2esports.com/pages/partners
-G2 Esports,Europe,2022,early,2022-01-11,discordapp,Discord,discordapp.com,uncoded,link,1,https://web.archive.org/web/20220111095237/https://g2esports.com/pages/partners
-G2 Esports,Europe,2022,late,2022-10-08,bmw,BMW,bmw.com,uncoded,link,2,https://web.archive.org/web/20221008233957/https://g2esports.com/pages/partners
-G2 Esports,Europe,2023,late,2023-12-03,g2truckbf73f90a89ee4d2c9c9ae8a1e5896f62100x,G2Truckbf73F90A89Ee4D2C9C9Ae8A1E5896F62100X,,uncoded,image,2,https://web.archive.org/web/20231203112945/https://g2esports.com/pages/partners
-G2 Esports,Europe,2023,late,2023-12-03,geni,geni.us,geni.us,uncoded,link,4,https://web.archive.org/web/20231203112945/https://g2esports.com/pages/partners
-G2 Esports,Europe,2023,late,2023-12-03,nextlevelracing,nextlevelracing.com,nextlevelracing.com,uncoded,link,2,https://web.archive.org/web/20231203112945/https://g2esports.com/pages/partners
-G2 Esports,Europe,2024,early,2024-03-19,logitechg,logitechg.com,logitechg.com,uncoded,link,3,https://web.archive.org/web/20240319020919/https://g2esports.com/pages/partners
-G2 Esports,Europe,2024,early,2024-03-19,discordapp,Discord,discordapp.com,uncoded,link,1,https://web.archive.org/web/20240319020919/https://g2esports.com/pages/partners
-G2 Esports,Europe,2024,early,2024-03-19,aoc,AOC,aoc.com,uncoded,link,3,https://web.archive.org/web/20240319020919/https://g2esports.com/pages/partners
-Gen.G,Korea,2021,late,2021-11-18,easternmichiganuniversity200x,Easternmichiganuniversity200X,,uncoded,image,1,https://web.archive.org/web/20211118071030/https://geng.gg/pages/partners
-Gen.G,Korea,2022,early,2022-01-26,puma200x,Puma200X,,uncoded,image,1,https://web.archive.org/web/20220126143900/https://en.geng.gg/pages/partners
-Gen.G,Korea,2022,late,2022-10-16,easternmichiganuniversity500x,Easternmichiganuniversity500X,,uncoded,image,1,https://web.archive.org/web/20221016231634/https://geng.gg/pages/partners
-Gen.G,Korea,2022,late,2022-10-16,sidiz2021500xcded5fe7990246709e4eae7bf7ff8fcd200x,Sidiz2021500Xcded5Fe7990246709E4Eae7Bf7Ff8Fcd200X,,uncoded,image,1,https://web.archive.org/web/20221016231634/https://geng.gg/pages/partners
-Gen.G,Korea,2022,late,2022-10-16,puma500x,Puma500X,,uncoded,image,1,https://web.archive.org/web/20221016231634/https://geng.gg/pages/partners
-Gen.G,Korea,2023,early,2023-01-30,svb500x,Svb500X,,uncoded,image,1,https://web.archive.org/web/20230130210629/https://geng.gg/pages/partners
-Gen.G,Korea,2024,early,2024-03-03,universityofkentucky200x,Universityofkentucky200X,,uncoded,image,1,https://web.archive.org/web/20240303192415/https://en.geng.gg/pages/partners
-Gen.G,Korea,2024,early,2024-03-03,pg200x,Pg200X,,uncoded,image,1,https://web.archive.org/web/20240303192415/https://en.geng.gg/pages/partners
-Gen.G,Korea,2024,early,2024-03-03,ee5c18236a366dd54733cde206f18c6b200x,Ee5C18236A366Dd54733Cde206F18C6B200X,,uncoded,image,1,https://web.archive.org/web/20240303192415/https://en.geng.gg/pages/partners
-SK Gaming,Europe,2022,late,2022-12-08,wortmann,Terra,wortmann.de,uncoded,link,2,https://web.archive.org/web/20221208195051/https://www.sk-gaming.com/partners
-SK Gaming,Europe,2023,early,2023-02-07,rewe,REWE,rewe.de,uncoded,link,3,https://web.archive.org/web/20230207050324/https://www.sk-gaming.com/partners
-SK Gaming,Europe,2023,early,2023-02-07,telekom,BW Telekom,telekom.de,uncoded,link,3,https://web.archive.org/web/20230207050324/https://www.sk-gaming.com/partners
-SK Gaming,Europe,2024,early,2024-01-14,rewe,REWE,rewe.de,uncoded,link,3,https://web.archive.org/web/20240114234640/https://www.sk-gaming.com/partners
-SK Gaming,Europe,2024,early,2024-01-14,wortmann,Terra,wortmann.de,uncoded,link,2,https://web.archive.org/web/20240114234640/https://www.sk-gaming.com/partners
-SK Gaming,Europe,2025,early,2025-01-14,westerndigital,WD,westerndigital.com,uncoded,link,2,https://web.archive.org/web/20250114192249/https://www.sk-gaming.com/partners
-SK Gaming,Europe,2026,early,2026-01-07,mercedesbenz,Mercedes Benz,mercedes-benz.com,uncoded,link,2,https://web.archive.org/web/20260107234134/https://www.sk-gaming.com/partners
-SK Gaming,Europe,2026,late,2026-09-19,telekom,BW Telekom,telekom.de,uncoded,link,3,https://web.archive.org/web/20260919030843/https://www.sk-gaming.com/partners
-SK Gaming,Europe,2026,late,2026-09-19,matrixfitness,Matrix,matrixfitness.com,uncoded,link,2,https://web.archive.org/web/20260919030843/https://www.sk-gaming.com/partners
-T1,Korea,2023,early,2023-02-08,comcastspectacor,comcastspectacor.com,comcastspectacor.com,uncoded,link,1,https://web.archive.org/web/20230208044251/https://www.t1.gg/partners
-T1,Korea,2024,early,2024-03-19,tmall,tmall.hk,tmall.hk,uncoded,link,3,https://web.archive.org/web/20240319022845/https://www.t1.gg/partners
-T1,Korea,2025,early,2025-01-05,tmall,tmall.hk,tmall.hk,uncoded,link,3,https://web.archive.org/web/20250105005003/https://www.t1.gg/partners
-Team Liquid,North America,2019,early,2019-03-25,honda,Honda,honda.com,uncoded,link,1,https://web.archive.org/web/20190325124759/https://www.teamliquid.com/partners
-Team Liquid,North America,2022,early,2022-01-19,huya,huya.com,huya.com,uncoded,link,2,https://web.archive.org/web/20220119073513/https://www.teamliquid.com/partners
-Team Liquid,North America,2023,early,2023-01-27,huya,huya.com,huya.com,uncoded,link,2,https://web.archive.org/web/20230127054523/https://www.teamliquid.com/partners
-Team Liquid,North America,2023,late,2023-11-24,thor,thor.ne,thor.ne,uncoded,link,3,https://web.archive.org/web/20231124185736/https://www.teamliquid.com/partners
-Team Liquid,North America,2023,late,2023-11-24,imc,IMC,imc.com,uncoded,link,2,https://web.archive.org/web/20231124185736/https://www.teamliquid.com/partners
-Team Liquid,North America,2024,late,2024-12-29,monsterenergy,Monster Energy,monsterenergy.com,uncoded,"image,link",2,https://web.archive.org/web/20241229180038/https://teamliquid.com/partners
-Team Liquid,North America,2025,late,2025-12-23,dell,dell.com,dell.com,uncoded,link,4,https://web.archive.org/web/20251223084910/https://teamliquid.com/partners
-Team Liquid,North America,2025,late,2025-12-23,sap,SAP,,uncoded,image,1,https://web.archive.org/web/20251223084910/https://teamliquid.com/partners
-Team Liquid,North America,2026,late,2026-09-27,visa,Visa,,uncoded,image,1,https://web.archive.org/web/20260927061447/https://teamliquid.com/partners
-Team Vitality,Europe,2022,late,2022-12-06,welcomekit,welcomekit.co,welcomekit.co,uncoded,link,2,https://web.archive.org/web/20221206005758/https://vitality.gg/en/partners/
-Team Vitality,Europe,2025,late,2025-09-15,welcomekit,welcomekit.co,welcomekit.co,uncoded,link,3,https://web.archive.org/web/20250915101356/https://vitality.gg/en/pages/partners
+Cloud9,North America,2019,late,2019-12-17,redbull,Red Bull,redbull.com,energy_drink_food,link,1,https://web.archive.org/web/20191217193319/https://www.cloud9.gg/pages/partners
+Cloud9,North America,2021,early,2021-01-22,hyperx,HyperX,hyperxgaming.com,pc_hardware_peripherals,"image,link,short_link",3,https://web.archive.org/web/20210122102619/https://www.cloud9.gg/partners/
+Cloud9,North America,2021,early,2021-01-22,secretlab,Secretlab,secretlab.co,pc_hardware_peripherals,"image,link,short_link",3,https://web.archive.org/web/20210122102619/https://www.cloud9.gg/partners/
+Cloud9,North America,2022,early,2022-01-28,hp,HP (OMEN),hp.com,pc_hardware_peripherals,link,1,https://web.archive.org/web/20220128032719/https://cloud9.gg/partners/
+Cloud9,North America,2022,late,2022-11-28,hp,HP (OMEN),hp.com,pc_hardware_peripherals,link,1,https://web.archive.org/web/20221128191836/https://cloud9.gg/partners/
+Cloud9,North America,2022,late,2022-11-28,redbull,Red Bull,redbull.com,energy_drink_food,"link,short_link",3,https://web.archive.org/web/20221128191836/https://cloud9.gg/partners/
+Cloud9,North America,2022,late,2022-11-28,blockchain,Blockchain.com,blockchain.com,crypto_web3,"image,link,short_link",4,https://web.archive.org/web/20221128191836/https://cloud9.gg/partners/
+Cloud9,North America,2023,early,2023-02-04,redbull,Red Bull,redbull.com,energy_drink_food,"link,short_link",3,https://web.archive.org/web/20230204130650/https://cloud9.gg/partners/
+Cloud9,North America,2023,late,2023-12-08,bcgame,BC.GAME,,betting,short_link,1,https://web.archive.org/web/20231208083639/https://cloud9.gg/partners/
+Cloud9,North America,2026,late,2026-09-26,kia,Kia,,automotive,short_link,1,https://web.archive.org/web/20260926165315/https://cloud9.gg/partners/
+Fnatic,Europe,2023,late,2023-11-03,chillblast,Chillblast,chillblast.com,pc_hardware_peripherals,link,4,https://web.archive.org/web/20231103154129/https://fnatic.com/partners
+G2 Esports,Europe,2020,late,2020-11-16,redbull,Red Bull,redbull.com,energy_drink_food,"image,link",3,https://web.archive.org/web/20201116104300/https://g2esports.com/about/partners/
+G2 Esports,Europe,2021,late,2021-10-27,klutch,Klutch,klutch.me,finance,link,2,https://web.archive.org/web/20211027104351/https://g2esports.com/pages/partners
+G2 Esports,Europe,2021,late,2021-10-27,bondly,Bondly,bondly.finance,crypto_web3,link,2,https://web.archive.org/web/20211027104351/https://g2esports.com/pages/partners
+G2 Esports,Europe,2022,early,2022-01-11,klutch,Klutch,klutch.me,finance,link,2,https://web.archive.org/web/20220111095237/https://g2esports.com/pages/partners
+G2 Esports,Europe,2022,early,2022-01-11,lenovo,Lenovo Legion,lenovo.com,pc_hardware_peripherals,link,2,https://web.archive.org/web/20220111095237/https://g2esports.com/pages/partners
+G2 Esports,Europe,2022,early,2022-01-11,ralphlauren,Ralph Lauren,ralphlauren.com,apparel,link,3,https://web.archive.org/web/20220111095237/https://g2esports.com/pages/partners
+G2 Esports,Europe,2023,late,2023-12-03,oakley,Oakley,oakley.com,apparel,link,2,https://web.archive.org/web/20231203112945/https://g2esports.com/pages/partners
+G2 Esports,Europe,2024,early,2024-03-19,stride,Stride,stride.gg,other,link,3,https://web.archive.org/web/20240319020919/https://g2esports.com/pages/partners
+G2 Esports,Europe,2024,late,2024-12-27,fce,EFG,fce.gg,finance,link,3,https://web.archive.org/web/20241227051621/https://g2esports.com/pages/partners
+G2 Esports,Europe,2025,late,2025-12-29,logitechg,Logitech G,logitechg.com,pc_hardware_peripherals,link,3,https://web.archive.org/web/20251229212834/https://g2esports.com/pages/partners
+G2 Esports,Europe,2026,early,2026-03-18,ralphlauren,Ralph Lauren,ralphlauren.com,apparel,link,3,https://web.archive.org/web/20260318102431/https://g2esports.com/pages/partners
+G2 Esports,Europe,2026,late,2026-08-20,fce,EFG,fce.gg,finance,link,3,https://web.archive.org/web/20260820091959/https://g2esports.com/pages/partners
+Gen.G,Korea,2021,late,2021-11-18,lgelectronics,LG Electronics,,pc_hardware_peripherals,image,2,https://web.archive.org/web/20211118071030/https://geng.gg/pages/partners
+Gen.G,Korea,2021,late,2021-11-18,universitykentucky,University of Kentucky,,other,image,2,https://web.archive.org/web/20211118071030/https://geng.gg/pages/partners
+Gen.G,Korea,2022,early,2022-01-26,easternmichiganuniversity,Eastern Michigan University,,other,image,2,https://web.archive.org/web/20220126143900/https://en.geng.gg/pages/partners
+Gen.G,Korea,2022,late,2022-10-16,svb,Silicon Valley Bank,,finance,image,2,https://web.archive.org/web/20221016231634/https://geng.gg/pages/partners
+Gen.G,Korea,2023,early,2023-01-30,mobil1,Mobil 1,,automotive,image,2,https://web.archive.org/web/20230130210629/https://geng.gg/pages/partners
+Gen.G,Korea,2023,early,2023-01-30,mcdonalds,McDonald's,,energy_drink_food,image,2,https://web.archive.org/web/20230130210629/https://geng.gg/pages/partners
+Gen.G,Korea,2023,late,2023-12-10,puma,PUMA,,apparel,image,2,https://web.archive.org/web/20231210202958/https://geng.gg/pages/partners
+Gen.G,Korea,2024,early,2024-03-03,universitykentucky,University of Kentucky,,other,image,2,https://web.archive.org/web/20240303192415/https://en.geng.gg/pages/partners
+Gen.G,Korea,2024,early,2024-03-03,easternmichiganuniversity,Eastern Michigan University,,other,image,2,https://web.archive.org/web/20240303192415/https://en.geng.gg/pages/partners
+SK Gaming,Europe,2022,late,2022-12-08,vrperfekt,VR PERFEKT,vr-perfekt.de,finance,link,2,https://web.archive.org/web/20221208195051/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2022,late,2022-12-08,telekom,Telekom,telekom.de,telecom_tech,link,3,https://web.archive.org/web/20221208195051/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2023,early,2023-02-07,vrperfekt,VR PERFEKT,vr-perfekt.de,finance,link,2,https://web.archive.org/web/20230207050324/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2023,late,2023-09-27,subway,Subway,dein-subway.de,energy_drink_food,link,2,https://web.archive.org/web/20230927082815/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2023,late,2023-09-27,vrperfekt,VR PERFEKT,vr-perfekt.de,finance,link,2,https://web.archive.org/web/20230927082815/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2024,late,2024-12-09,mercedesbenz,Mercedes-Benz,mercedes-benz.com,automotive,link,3,https://web.archive.org/web/20241209195342/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2025,early,2025-01-14,wortmann,Terra (Wortmann),wortmann.de,pc_hardware_peripherals,link,2,https://web.archive.org/web/20250114192249/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2025,early,2025-01-14,mercedesbenz,Mercedes-Benz,mercedes-benz.com,automotive,link,3,https://web.archive.org/web/20250114192249/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2025,late,2025-12-06,amarancreators,amaran,amarancreators.com,pc_hardware_peripherals,link,2,https://web.archive.org/web/20251206153539/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2025,late,2025-12-06,nhowhotels,nhow Hotels,nhow-hotels.com,other,link,2,https://web.archive.org/web/20251206153539/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2025,late,2025-12-06,westerndigital,Western Digital,westerndigital.com,pc_hardware_peripherals,link,1,https://web.archive.org/web/20251206153539/https://www.sk-gaming.com/partners
+SK Gaming,Europe,2026,late,2026-09-19,aoc,AOC / AGON,aoc.com,pc_hardware_peripherals,link,2,https://web.archive.org/web/20260919030843/https://www.sk-gaming.com/partners
+T1,Korea,2025,late,2025-11-21,tmall,Tmall,tmall.hk,other,link,3,https://web.archive.org/web/20251121212310/https://www.t1.gg/partners
+Team Liquid,North America,2019,late,2019-12-06,monsterenergy,Monster Energy,monsterenergy.com,energy_drink_food,link,3,https://web.archive.org/web/20191206074755/https://www.teamliquid.com/partners
+Team Liquid,North America,2021,late,2021-12-07,imc,IMC Trading,imc.com,finance,link,2,https://web.archive.org/web/20211207175231/https://www.teamliquid.com/partners
+Team Liquid,North America,2022,early,2022-01-19,alienware,Alienware,alienware.com,pc_hardware_peripherals,link,2,https://web.archive.org/web/20220119073513/https://www.teamliquid.com/partners
+Team Liquid,North America,2023,early,2023-01-27,verizon,Verizon,verizon.com,telecom_tech,link,2,https://web.archive.org/web/20230127054523/https://www.teamliquid.com/partners
+Team Liquid,North America,2023,late,2023-11-24,alienware,Alienware,alienware.com,pc_hardware_peripherals,link,2,https://web.archive.org/web/20231124185736/https://www.teamliquid.com/partners
+Team Liquid,North America,2023,late,2023-11-24,honda,Honda,honda.com,automotive,link,2,https://web.archive.org/web/20231124185736/https://www.teamliquid.com/partners
+Team Liquid,North America,2025,early,2025-02-26,imc,IMC Trading,,finance,image,1,https://web.archive.org/web/20250226164248/https://teamliquid.com/partners
+Team Liquid,North America,2025,early,2025-02-26,sap,SAP,,telecom_tech,image,1,https://web.archive.org/web/20250226164248/https://teamliquid.com/partners
+Team Vitality,Europe,2022,early,2022-01-08,corsair,Corsair,,pc_hardware_peripherals,short_link,1,https://web.archive.org/web/20220108230437/https://vitality.gg/partners/
+Team Vitality,Europe,2022,late,2022-12-06,socioshc,Socios.com,,crypto_web3,short_link,1,https://web.archive.org/web/20221206005758/https://vitality.gg/en/partners/
+Team Vitality,Europe,2022,late,2022-12-06,evnia,Philips Evnia,,pc_hardware_peripherals,short_link,1,https://web.archive.org/web/20221206005758/https://vitality.gg/en/partners/
+Team Vitality,Europe,2023,early,2023-01-30,tezos,Tezos,,crypto_web3,short_link,1,https://web.archive.org/web/20230130004633/https://vitality.gg/partners/
+Team Vitality,Europe,2024,late,2024-12-13,cherryxtrfy,CHERRY XTRFY,,pc_hardware_peripherals,short_link,1,https://web.archive.org/web/20241213130656/https://vitality.gg/partners/
+Team Vitality,Europe,2025,late,2025-09-15,aldi,ALDI,,energy_drink_food,image,1,https://web.archive.org/web/20250915101356/https://vitality.gg/en/pages/partners
+Team Vitality,Europe,2026,early,2026-02-06,rog,ASUS ROG,,pc_hardware_peripherals,image,1,https://web.archive.org/web/20260206154927/https://vitality.gg/en/pages/partners

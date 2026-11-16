@@ -17,7 +17,7 @@ One row per **organization × year × period × sponsor**: a sponsor shown on an
 | `sponsor_name` | text | Readable sponsor name, taken from the logo's alt text, `brand_aliases.csv`, or the sponsor's web domain |
 | `sponsor_domain` | text | Website the sponsor's logo linked to (`redbull.com`). Blank when the logo had no link |
 | `industry` | text | Hand-coded industry from `industry_codes.csv` (categories below). `uncoded` = not coded yet |
-| `mention_types` | text | How the sponsor was found: `link` (link to the sponsor's site), `image` (logo in a partner section without a link), or both |
+| `mention_types` | text | How the sponsor was found: `link` (link to the sponsor's site), `short_link` (the team's own or a shortened link wrapping the sponsor's logo, like `c9.gg/secretlab`), `image` (logo in a partner section without a link), or a combination |
 | `n_mentions` | integer | Number of times the sponsor appeared on that page before duplicates were removed |
 | `snapshot_url` | text | Wayback Machine address of the capture, to check the row by eye |
 
@@ -46,7 +46,7 @@ One row per sponsor. The notebook adds new sponsors with a blank `industry`; I f
 | Field | Meaning |
 | --- | --- |
 | `sponsor_key`, `sponsor_name`, `sponsor_domain` | As above |
-| `industry` | One of: `crypto_web3`, `betting` (including prediction markets), `energy_drink_food`, `pc_hardware_peripherals`, `telecom_tech`, `apparel`, `automotive`, `finance`, `other`, `not_a_sponsor` (removed from the clean data) |
+| `industry` | One of: `crypto_web3`, `betting` (including prediction markets), `energy_drink_food`, `pc_hardware_peripherals`, `telecom_tech`, `apparel`, `automotive`, `finance`, `cosmetics`, `supplements`, `other`, `not_a_sponsor` (removed from the clean data) |
 | `notes` | Why a code was chosen, when it isn't obvious |
 
 ## `brand_aliases.csv` (hand-edited)
@@ -58,3 +58,14 @@ Merges different spellings of one sponsor.
 | `raw_key` | Key as produced from a page (`redbullgaming`) |
 | `sponsor_key` | Key to merge it into (`redbull`) |
 | `sponsor_name` | Display name to use (`Red Bull`) |
+
+## `clean/for_charts/` (not in repo; rebuilt by the notebooks)
+
+CSV files for Power BI, Tableau or Excel, with readable column names.
+
+| File | One row per | Columns |
+| --- | --- | --- |
+| `team_year_sponsors.csv` (from `analysis.ipynb`; best for Power BI) | team × year × sponsor (early and late captures combined) | Team, Region, Year, Sponsor, Sponsor website, Industry, New this year (true in the sponsor's first year with the team, not counting the team's own first year with data) |
+| `sponsors.csv` | team × year × period × sponsor | Organization, Region, Year, Period, Capture date, Sponsor, Sponsor website, Industry, Industry code, Archived page |
+| `industry_by_year.csv` | year × industry | Year, Industry, Sponsor slots, Share of year (0–1) |
+| `industry_by_region_year.csv` | region × year × industry | Region, Year, Industry, Sponsor slots |
